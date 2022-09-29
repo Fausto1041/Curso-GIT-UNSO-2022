@@ -1,5 +1,5 @@
 # Curso GIT UNSO 2022
-
+Fausto salazar
 Dario Di Gulio
 Arturo Garcia
 Fernando Benítez 
